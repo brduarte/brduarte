@@ -22,11 +22,6 @@
 ![Laravel badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFF&)
 
 
-### ✨ Como você pode me encontrar
-[![Gmail Badge](https://img.shields.io/badge/-lucasmg37@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmg37@gmail.com)](mailto:lucasmg37@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-junior/)](https://www.linkedin.com/in/lucas-junior/) 
-[![Site Pessoal](https://img.shields.io/badge/-lucasjunior.com.br-black?style=flat-square&logo=About.me&logoColor=white&link=http://lucasjunior.com.br)](http://www.lucasjunior.com.br)
-
 
 
 <!--
