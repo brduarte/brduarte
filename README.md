@@ -20,9 +20,11 @@
 ![React badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=222&)
 ![Vue badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.JS&logoColor=FFF)
 ![Laravel badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFF&)
+![Lumen badge](https://img.shields.io/badge/-Lumen-FF2D20?style=for-the-badge&logo=Lumen&logoColor=FFF&)
 ![Symfony badge](https://img.shields.io/badge/-Symfony-ddd?style=for-the-badge&logo=Symfony&logoColor=black&)
 ![Docker badge](https://img.shields.io/badge/-Docker-329DEC?style=for-the-badge&logo=Docker&logoColor=ddd&)
 ![CircleCI badge](https://img.shields.io/badge/-circleci-161616?style=for-the-badge&logo=circleci&logoColor=049B4A&)
+![Terraform badge](https://img.shields.io/badge/-terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=FFFFFF&)
 
 
 
