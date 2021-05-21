@@ -18,7 +18,6 @@
 ![Js Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=222)
 ![Html 5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![React badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=222&)
-![Vue badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.JS&logoColor=FFF)
 ![Laravel badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFF&)
 ![Lumen badge](https://img.shields.io/badge/-Lumen-FF2D20?style=for-the-badge&logo=Lumen&logoColor=FFF&)
 ![Symfony badge](https://img.shields.io/badge/-Symfony-ddd?style=for-the-badge&logo=Symfony&logoColor=black&)
