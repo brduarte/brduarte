@@ -4,7 +4,7 @@
 
 💡 Desenvolvedor Web Fullstack
 
-🐝 Colaborador na **Sambatech**.
+🐝 Colaborador na **SmarttBot**.
 
 🎓 Graduado em Gestão da Tecnologia da Informação
 
