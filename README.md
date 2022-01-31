@@ -1,4 +1,4 @@
-### 👋 Hello, Eu sou o Bruno Duarte
+# 👋 Hello, Eu sou o Bruno Duarte
 
 💡 Desenvolvedor Web Backend Pleno
 
