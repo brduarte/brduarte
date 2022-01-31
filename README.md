@@ -10,4 +10,5 @@
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=brduarte&show_icons=true)
 -->
 
+Iai! Que tal me pagar um café?
 https://www.buymeacoffee.com/brunomacieu
