@@ -1,10 +1,8 @@
-### Hi there 👋
-
 ### 👋 Hello, Eu sou o Bruno Duarte
 
 💡 Desenvolvedor Web Fullstack
 
-🐝 Colaborador na **SmarttBot**.
+🐝 Colaborador na **DX.CO**.
 
 🎓 Graduado em Gestão da Tecnologia da Informação
 
@@ -12,29 +10,4 @@
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=brduarte&show_icons=true)
 -->
 
-### 📦 Principais tecnologias que já trabalhei
-
-![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=Php&logoColor=white)
-![Js Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=222)
-![Html 5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![React badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=222&)
-![Laravel badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FFF&)
-![Lumen badge](https://img.shields.io/badge/-Lumen-FF2D20?style=for-the-badge&logo=Lumen&logoColor=FFF&)
-![Symfony badge](https://img.shields.io/badge/-Symfony-ddd?style=for-the-badge&logo=Symfony&logoColor=black&)
-![Docker badge](https://img.shields.io/badge/-Docker-329DEC?style=for-the-badge&logo=Docker&logoColor=ddd&)
-![CircleCI badge](https://img.shields.io/badge/-circleci-161616?style=for-the-badge&logo=circleci&logoColor=049B4A&)
-![Terraform badge](https://img.shields.io/badge/-terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=FFFFFF&)
-
-
-<!--
-**brduarte/brduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://www.buymeacoffee.com/brunomacieu
