@@ -1,6 +1,6 @@
 # 👋 Hello, Eu sou o Bruno Duarte
 
-💡 Desenvolvedor Backend Pleno
+💡 Desenvolvedor Backend Senior
 
 👨‍🚀 Colaborador na **DX.CO** do hub 4All Tecnologia.
 
