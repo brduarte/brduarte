@@ -2,7 +2,7 @@
 
 💡 Desenvolvedor Backend Senior
 
-👨‍🚀 Colaborador na **DX.CO** do hub 4All Tecnologia.
+👨‍🚀 Colaborador na 4All Tecnologia.
 
 🎓 Graduado em Gestão da Tecnologia da Informação
 
